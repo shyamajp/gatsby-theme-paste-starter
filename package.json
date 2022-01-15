@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-theme-paste-starter",
+  "version": "1.0.0",
+  "description": "A starter template with gatsby-theme-paste.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "homepage": "https://github.com/shyamajp/gatsby-theme-paste-starter",
+  "bugs": {
+    "url": "https://github.com/shyamajp/gatsby-theme-paste-starter/issues"
+  },
+  "author": "shyamajp",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "gatsby": "^4.5.2",
+    "gatsby-theme-paste": "^1.0.0"
+  }
+}
