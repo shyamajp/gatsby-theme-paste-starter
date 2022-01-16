@@ -41,7 +41,7 @@ module.exports = {
       },
       {
         name: "Categories",
-        link: "/about",
+        link: "/categories",
       },
     ],
     social: [
