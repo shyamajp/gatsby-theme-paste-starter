@@ -19,6 +19,6 @@
   "license": "UNLICENSED",
   "dependencies": {
     "gatsby": "^4.5.2",
-    "gatsby-theme-paste": "^1.0.0"
+    "gatsby-theme-paste": "^1.0.1"
   }
 }
