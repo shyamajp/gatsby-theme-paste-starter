@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-paste-src-templates-tags-tsx",
+    "path": "/tags/react/2",
+    "result": {"data":{"allMdx":{"totalCount":2,"edges":[]}},"pageContext":{"limit":10,"skip":10,"pagination":{"currentPage":2,"totalPages":1,"totalPosts":2,"postsPerPage":10},"tag":"React"}},
+    "staticQueryHashes": ["2667132493","4044152021"]}

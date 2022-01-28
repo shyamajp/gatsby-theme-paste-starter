@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-paste-src-templates-categories-tsx",
+    "path": "/categories/example/3",
+    "result": {"data":{"allMdx":{"totalCount":3,"edges":[]}},"pageContext":{"limit":10,"skip":20,"pagination":{"currentPage":3,"totalPages":1,"totalPosts":3,"postsPerPage":10},"category":"example"}},
+    "staticQueryHashes": ["2667132493","4044152021"]}
